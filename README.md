@@ -14,4 +14,6 @@ A collection of the best learning resources for iOS:
 
 - [Cocoa with love](http://www.cocoawithlove.com/)
 
+- [Natasha the robot](http://natashatherobot.com/)
+
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
