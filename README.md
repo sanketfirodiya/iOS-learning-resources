@@ -1,6 +1,6 @@
 # iOS learning resources
 
-A collection of the best, frequently updated and well maintained iOS learning resources (free).
+The most comprenehensive collection of high quality, frequently updated and well maintained iOS tutorials (free).
 
 - [objc](http://www.objc.io/)
 
