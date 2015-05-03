@@ -20,4 +20,6 @@ A collection of the best, frequently updated and well maintained iOS learning re
 
 - [ASCII WWDC](http://asciiwwdc.com/)
 
+- [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/)
+
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
