@@ -1,6 +1,6 @@
-# iOS tutorials
+# iOS tutorial sites
 
-The most comprenehensive collection of high quality, frequently updated and well maintained iOS tutorials (free).
+The most comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites (free).
 
 - [objc](http://www.objc.io/)
 
