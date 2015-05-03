@@ -24,4 +24,6 @@ A collection of the best, frequently updated and well maintained iOS learning re
 
 - [Tuts Plus iOS](http://code.tutsplus.com/categories/ios-sdk)
 
+- [iOS-blog](http://ios-blog.co.uk/)
+
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
