@@ -1,4 +1,4 @@
-# iOS learning resources
+# iOS tutorials
 
 The most comprenehensive collection of high quality, frequently updated and well maintained iOS tutorials (free).
 
