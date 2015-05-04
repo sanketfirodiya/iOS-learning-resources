@@ -28,4 +28,6 @@ The most comprenehensive collection of high quality, frequently updated and well
 
 - [ASCII WWDC](http://asciiwwdc.com/)
 
+- [A Better Way to Learn Swift](https://thinkster.io/a-better-way-to-learn-swift/)
+
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
