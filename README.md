@@ -30,4 +30,6 @@ The most comprenehensive collection of high quality, frequently updated and well
 
 - [A Better Way to Learn Swift](https://thinkster.io/a-better-way-to-learn-swift/)
 
+- [Use Your Loaf](http://useyourloaf.com/)
+
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
