@@ -32,4 +32,6 @@ The most comprenehensive collection of high quality, frequently updated and well
 
 - [Use Your Loaf](http://useyourloaf.com/)
 
+- [Code with Chris](http://codewithchris.com/)
+
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
