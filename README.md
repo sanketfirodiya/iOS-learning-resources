@@ -34,4 +34,5 @@ The most comprenehensive collection of high quality, frequently updated and well
 
 - [Code with Chris](http://codewithchris.com/)
 
+<br/>
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
