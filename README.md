@@ -24,6 +24,7 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 
 ## Best articles on specific topics
 ### App Architecture
+- [http://www.teehanlax.com/blog/krush-ios-architecture/](http://www.teehanlax.com/blog/krush-ios-architecture/)
 - [http://www.objc.io/issue-13/viper.html](http://www.objc.io/issue-13/viper.html)
 - [http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html] (http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 
