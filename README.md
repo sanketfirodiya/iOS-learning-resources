@@ -1,8 +1,8 @@
 # iOS Learning Resources
 
-The most comprehensive collection of high quality iOS tutorial sites and articles on specific topics.
+The most comprehensive collection of high quality iOS tutorial sites and articles.
 
-## Frequently updated and well maintained tutorial sites
+## Tutorial sites (new tutorial ~ 1 week or so)
 
 - [Ray Wenderlich](http://www.raywenderlich.com)
 - [Cocoa Dev Central](http://cocoadevcentral.com/) 
@@ -24,6 +24,6 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 # Best articles on specific topics
 ### App Architecture
 - [http://www.objc.io/issue-13/viper.html](http://www.objc.io/issue-13/viper.html)
-
+- [http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html] (http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 <br/>
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
