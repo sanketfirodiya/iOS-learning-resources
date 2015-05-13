@@ -31,5 +31,10 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [http://nachbaur.com/blog/using-gcd-and-blocks-effectively](http://nachbaur.com/blog/using-gcd-and-blocks-effectively)
 - [http://jeffreysambells.com/2013/03/01/asynchronous-operations-in-ios-with-grand-central-dispatch](http://jeffreysambells.com/2013/03/01/asynchronous-operations-in-ios-with-grand-central-dispatch)
 
-<br/><br/>
+### Memory Management
+- [http://memo.tv/archive/memory_management_with_objective_c_cocoa_iphone](http://memo.tv/archive/memory_management_with_objective_c_cocoa_iphone)
+- [http://rypress.com/tutorials/objective-c/memory-management](http://rypress.com/tutorials/objective-c/memory-management)
+- [http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/](http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
+
+<br/>
 ## Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
