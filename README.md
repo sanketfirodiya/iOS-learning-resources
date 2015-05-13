@@ -2,7 +2,7 @@
 
 The most comprehensive collection of high quality iOS tutorial sites and articles.
 
-## Tutorial sites (new tutorial ~ 1 week or so)
+## Tutorial sites
 
 - [Ray Wenderlich](http://www.raywenderlich.com)
 - [Cocoa Dev Central](http://cocoadevcentral.com/) 
