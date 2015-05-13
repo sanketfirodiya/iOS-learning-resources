@@ -25,5 +25,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 ### App Architecture
 - [http://www.objc.io/issue-13/viper.html](http://www.objc.io/issue-13/viper.html)
 - [http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html] (http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
-<br/>
-Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
+
+### GCD
+- [http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html](http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html)
+
+<br/><br/><br/>
+## Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
