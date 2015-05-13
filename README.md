@@ -28,6 +28,8 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 
 ### GCD
 - [http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html](http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html)
+- [http://nachbaur.com/blog/using-gcd-and-blocks-effectively](http://nachbaur.com/blog/using-gcd-and-blocks-effectively)
+- [http://jeffreysambells.com/2013/03/01/asynchronous-operations-in-ios-with-grand-central-dispatch](http://jeffreysambells.com/2013/03/01/asynchronous-operations-in-ios-with-grand-central-dispatch)
 
-<br/><br/><br/>
+<br/><br/>
 ## Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
