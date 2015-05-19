@@ -38,5 +38,11 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [http://rypress.com/tutorials/objective-c/memory-management](http://rypress.com/tutorials/objective-c/memory-management)
 - [http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/](http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
 
+### Blocks
+- [http://www.intertech.com/Blog/understanding-objective-c-blocks/](http://www.intertech.com/Blog/understanding-objective-c-blocks/)
+- [http://adoptioncurve.net/archives/2013/02/blocks-in-objective-c-without-tears/](http://adoptioncurve.net/archives/2013/02/blocks-in-objective-c-without-tears/)
+- [http://rypress.com/tutorials/objective-c/blocks](http://rypress.com/tutorials/objective-c/blocks)
+- [http://goshdarnblocksyntax.com/](http://goshdarnblocksyntax.com/)
+
 <br/>
 ## Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
