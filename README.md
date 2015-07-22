@@ -44,6 +44,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [http://rypress.com/tutorials/objective-c/blocks](http://rypress.com/tutorials/objective-c/blocks)
 - [http://goshdarnblocksyntax.com/](http://goshdarnblocksyntax.com/)
 
+### How not to crash
+- [http://inessential.com/hownottocrash](http://inessential.com/hownottocrash)
+
 <br/>
 ## More awesome lists for iOS devs
 - https://github.com/dkhamsing/open-source-ios-apps
