@@ -49,8 +49,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 
 <br/>
 ## More awesome lists for iOS devs
-- https://github.com/dkhamsing/open-source-ios-apps
+- https://github.com/sanketfirodiya/awesome-ios-plugins
 - https://github.com/sanketfirodiya/sample-watchkit-apps
+- https://github.com/sanketfirodiya/ios-marketing-resources
 
 <br/>
 ## Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
