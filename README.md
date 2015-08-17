@@ -21,6 +21,7 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [Use Your Loaf](http://useyourloaf.com/)
 - [Code with Chris](http://codewithchris.com/)
 - [Tutorials Point](http://www.tutorialspoint.com/objective_c/index.htm)
+- [http://learnxinyminutes.com/docs/objective-c/](http://learnxinyminutes.com/docs/objective-c/)
 
 ## Best articles on specific topics
 ### App Architecture
