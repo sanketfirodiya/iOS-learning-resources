@@ -35,9 +35,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [Asynchronous Operations in iOS with Grand Central Dispatch - Jeffrey Sambells](http://jeffreysambells.com/2013/03/01/asynchronous-operations-in-ios-with-grand-central-dispatch)
 
 ### Memory Management
-- [http://memo.tv/archive/memory_management_with_objective_c_cocoa_iphone](http://memo.tv/archive/memory_management_with_objective_c_cocoa_iphone)
-- [http://rypress.com/tutorials/objective-c/memory-management](http://rypress.com/tutorials/objective-c/memory-management)
-- [http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/](http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
+- [Memory Management with Objective C / Cocoa / iPhone - Memo Akten](http://memo.tv/archive/memory_management_with_objective_c_cocoa_iphone)
+- [Memory Management - RyPress](http://rypress.com/tutorials/objective-c/memory-management)
+- [An In-depth Look At Manual Memory Management In Objective-C - Tom Dalling](http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
 
 ### Blocks
 - [http://www.intertech.com/Blog/understanding-objective-c-blocks/](http://www.intertech.com/Blog/understanding-objective-c-blocks/)
