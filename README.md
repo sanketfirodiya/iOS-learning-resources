@@ -40,9 +40,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [An In-depth Look At Manual Memory Management In Objective-C - Tom Dalling](http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
 
 ### Blocks
-- [http://www.intertech.com/Blog/understanding-objective-c-blocks/](http://www.intertech.com/Blog/understanding-objective-c-blocks/)
-- [http://adoptioncurve.net/archives/2013/02/blocks-in-objective-c-without-tears/](http://adoptioncurve.net/archives/2013/02/blocks-in-objective-c-without-tears/)
-- [http://rypress.com/tutorials/objective-c/blocks](http://rypress.com/tutorials/objective-c/blocks)
+- [Understanding Objective-C Blocks - Intertech](http://www.intertech.com/Blog/understanding-objective-c-blocks/)
+- [Blocks in Objective-C (Without Tears) - Tim Duckett](http://adoptioncurve.net/archives/2013/02/blocks-in-objective-c-without-tears/)
+- [Blocks - RyPress](http://rypress.com/tutorials/objective-c/blocks)
 - [http://goshdarnblocksyntax.com/](http://goshdarnblocksyntax.com/)
 
 ### Core Data
