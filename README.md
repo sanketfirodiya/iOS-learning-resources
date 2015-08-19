@@ -25,14 +25,14 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 
 ## Best articles on specific topics
 ### App Architecture
-- [Krush iOS architecture by Teehan+Lax](http://www.teehanlax.com/blog/krush-ios-architecture/)
-- [Viper](http://www.objc.io/issue-13/viper.html)
-- [Clean architecture] (http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
+- [Krush iOS architecture - Teehan+Lax](http://www.teehanlax.com/blog/krush-ios-architecture/)
+- [Viper - objc.io](http://www.objc.io/issue-13/viper.html)
+- [Clean architecture - 8th Light] (http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 
 ### GCD
-- [http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html](http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html)
-- [http://nachbaur.com/blog/using-gcd-and-blocks-effectively](http://nachbaur.com/blog/using-gcd-and-blocks-effectively)
-- [http://jeffreysambells.com/2013/03/01/asynchronous-operations-in-ios-with-grand-central-dispatch](http://jeffreysambells.com/2013/03/01/asynchronous-operations-in-ios-with-grand-central-dispatch)
+- [GCD: Summary, Syntax & Best Practices - Matt Nunogawa](http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html)
+- [Using GCD and Blocks effectively - Mike Nachbaur](http://nachbaur.com/blog/using-gcd-and-blocks-effectively)
+- [Asynchronous Operations in iOS with Grand Central Dispatch - Jeffrey Sambells](http://jeffreysambells.com/2013/03/01/asynchronous-operations-in-ios-with-grand-central-dispatch)
 
 ### Memory Management
 - [http://memo.tv/archive/memory_management_with_objective_c_cocoa_iphone](http://memo.tv/archive/memory_management_with_objective_c_cocoa_iphone)
