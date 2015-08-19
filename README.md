@@ -25,9 +25,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 
 ## Best articles on specific topics
 ### App Architecture
-- [http://www.teehanlax.com/blog/krush-ios-architecture/](http://www.teehanlax.com/blog/krush-ios-architecture/)
-- [http://www.objc.io/issue-13/viper.html](http://www.objc.io/issue-13/viper.html)
-- [http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html] (http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
+- [Krush iOS architecture by Teehan+Lax](http://www.teehanlax.com/blog/krush-ios-architecture/)
+- [Viper](http://www.objc.io/issue-13/viper.html)
+- [Clean architecture] (http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 
 ### GCD
 - [http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html](http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html)
