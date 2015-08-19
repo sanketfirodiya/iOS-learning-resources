@@ -45,6 +45,12 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [http://rypress.com/tutorials/objective-c/blocks](http://rypress.com/tutorials/objective-c/blocks)
 - [http://goshdarnblocksyntax.com/](http://goshdarnblocksyntax.com/)
 
+### Core Data
+- [Exploring all the different core data concurrency configurations](https://blog.codecentric.de/en/2014/11/concurrency-coredata/)
+- [A real guide to core data concurreny](http://quellish.tumblr.com/post/97430076027/a-real-guide-to-core-data-concurrency)
+- [New in core data and iOS8 batch updating](https://www.bignerdranch.com/blog/new-in-core-data-and-ios-8-batch-updating/)
+- [Maintaing a silky smooth UI with core data](https://medium.com/soundwave-stories/core-data-cffe22efe716)
+
 ### How not to crash
 - [http://inessential.com/hownottocrash](http://inessential.com/hownottocrash)
 
