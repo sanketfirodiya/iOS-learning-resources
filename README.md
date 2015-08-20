@@ -61,4 +61,6 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - https://github.com/sanketfirodiya/ios-marketing-resources
 
 <br/>
-## Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/iOS-learning-resources/pulls)
+
+## Contact
+For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
