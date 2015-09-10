@@ -23,6 +23,7 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [Tutorials Point](http://www.tutorialspoint.com/objective_c/index.htm)
 - [http://learnxinyminutes.com/docs/objective-c/](http://learnxinyminutes.com/docs/objective-c/)
 - [Little bites of cocoa](http://littlebitesofcocoa.com/)
+- [James Quave](http://jamesonquave.com/blog/)
 
 ## Best articles on specific topics
 ### App Architecture
