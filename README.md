@@ -59,6 +59,10 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 ### How not to crash
 - [http://inessential.com/hownottocrash](http://inessential.com/hownottocrash)
 
+### Understanding UI and Touch Events
+- [Hit-Testing in iOS](http://smnh.me/hit-testing-in-ios/)
+- [Understanding scrollviews](https://www.objc.io/issues/3-views/scroll-view/)
+
 <br/>
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
