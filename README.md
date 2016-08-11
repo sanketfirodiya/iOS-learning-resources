@@ -38,6 +38,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [Aspect-Oriented Programming](http://artsy.github.io/blog/2014/08/04/aspect-oriented-programming-and-aranalytics/)
 - [Clean Swift iOS Architecture](http://clean-swift.com/clean-swift-ios-architecture/)
 
+### Design Patterns
+- [8 Patterns to Help You Destroy Massive View Controller](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
+
 ### GCD
 - [GCD: Summary, Syntax & Best Practices - Matt Nunogawa](http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html)
 - [Using GCD and Blocks effectively - Mike Nachbaur](http://nachbaur.com/blog/using-gcd-and-blocks-effectively)
@@ -66,6 +69,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 ### Understanding UI and Touch Events
 - [Hit-Testing in iOS](http://smnh.me/hit-testing-in-ios/)
 - [Understanding scrollviews](https://www.objc.io/issues/3-views/scroll-view/)
+
+### Awesomeness beyond iOS
+- [Tell, don't ask](https://pragprog.com/articles/tell-dont-ask)
 
 <br/>
 ## More awesome lists for iOS devs
