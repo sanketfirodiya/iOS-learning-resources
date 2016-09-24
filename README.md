@@ -51,11 +51,15 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [Memory Management - RyPress](http://rypress.com/tutorials/objective-c/memory-management)
 - [An In-depth Look At Manual Memory Management In Objective-C - Tom Dalling](http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
 
+### Stack and Heap Objects in Objective-C
+- [Friday Q&A 2010-01-15: Stack and Heap Objects in Objective-C](https://www.mikeash.com/pyblog/friday-qa-2010-01-15-stack-and-heap-objects-in-objective-c.html)
+
 ### Blocks
 - [Understanding Objective-C Blocks - Intertech](http://www.intertech.com/Blog/understanding-objective-c-blocks/)
 - [Blocks in Objective-C (Without Tears) - Tim Duckett](http://adoptioncurve.net/archives/2013/02/blocks-in-objective-c-without-tears/)
 - [Blocks - RyPress](http://rypress.com/tutorials/objective-c/blocks)
 - [http://goshdarnblocksyntax.com/](http://goshdarnblocksyntax.com/)
+- [Objective-C Blocks Under the Hood](http://albertodebortoli.com/blog/2013/04/21/objective-c-blocks-under-the-hood/)
 
 ### Core Data
 - [Exploring all the different core data concurrency configurations](https://blog.codecentric.de/en/2014/11/concurrency-coredata/)
