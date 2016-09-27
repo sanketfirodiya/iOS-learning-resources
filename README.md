@@ -29,6 +29,7 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [http://www.figure.ink/](http://www.figure.ink/)
 - [That Thing in Swift](https://thatthinginswift.com/)
 - [Clean Swift](http://clean-swift.com/)
+- [http://krakendev.io/](http://krakendev.io/)
 
 ## Best articles on specific topics
 ### App Architecture
