@@ -69,6 +69,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [New in core data and iOS8 batch updating](https://www.bignerdranch.com/blog/new-in-core-data-and-ios-8-batch-updating/)
 - [Maintaing a silky smooth UI with core data](https://medium.com/soundwave-stories/core-data-cffe22efe716)
 
+### Autolayout
+- [How to use updateConstraints](https://oleb.net/blog/2015/08/how-to-use-updateconstraints/)
+
 ### How not to crash
 - [http://inessential.com/hownottocrash](http://inessential.com/hownottocrash)
 
