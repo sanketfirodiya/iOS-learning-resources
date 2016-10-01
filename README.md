@@ -43,6 +43,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 ### Design Patterns
 - [8 Patterns to Help You Destroy Massive View Controller](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
 
+### Swift
+- [Advanced & Practical Enum usage in Swift](https://appventure.me/2015/10/17/advanced-practical-enum-examples/)
+
 ### GCD
 - [GCD: Summary, Syntax & Best Practices - Matt Nunogawa](http://amattn.com/p/grand_central_dispatch_gcd_summary_syntax_best_practices.html)
 - [Using GCD and Blocks effectively - Mike Nachbaur](http://nachbaur.com/blog/using-gcd-and-blocks-effectively)
