@@ -67,9 +67,9 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [Objective-C Blocks Under the Hood](http://albertodebortoli.com/blog/2013/04/21/objective-c-blocks-under-the-hood/)
 
 ### Core Data
-- [Exploring all the different core data concurrency configurations](https://blog.codecentric.de/en/2014/11/concurrency-coredata/)
-- [A real guide to core data concurreny](http://quellish.tumblr.com/post/97430076027/a-real-guide-to-core-data-concurrency)
+- [Introducing the Big Nerd Ranch Core Data Stack](https://www.bignerdranch.com/blog/introducing-the-big-nerd-ranch-core-data-stack/)
 - [New in core data and iOS8 batch updating](https://www.bignerdranch.com/blog/new-in-core-data-and-ios-8-batch-updating/)
+- [Exploring all the different core data concurrency configurations](https://blog.codecentric.de/en/2014/11/concurrency-coredata/)
 - [Maintaing a silky smooth UI with core data](https://medium.com/soundwave-stories/core-data-cffe22efe716)
 
 ### Autolayout
