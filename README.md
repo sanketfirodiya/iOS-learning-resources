@@ -75,6 +75,10 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 ### Autolayout
 - [How to use updateConstraints](https://oleb.net/blog/2015/08/how-to-use-updateconstraints/)
 
+### Debugging
+- [Symbolic breakpoints and watchpoints](https://www.bignerdranch.com/blog/xcode-breakpoint-wizardry/)
+- [Exception breakpoints](http://blog.manbolo.com/2012/01/23/xcode-tips-1-break-on-exceptions)
+
 ### How not to crash
 - [http://inessential.com/hownottocrash](http://inessential.com/hownottocrash)
 
