@@ -1,7 +1,7 @@
 # iOS Learning Resources
 
-The most comprehensive collection of high quality iOS articles and blogs.
-
+A comprehensive collection of the best iOS articles and blogs.
+<br/>
 ## Handpicked articles
 ### App Architecture
 - [Krush iOS architecture - Teehan+Lax](http://www.teehanlax.com/blog/krush-ios-architecture/)
