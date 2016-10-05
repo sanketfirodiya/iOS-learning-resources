@@ -1,38 +1,8 @@
 # iOS Learning Resources
 
-The most comprehensive collection of high quality iOS tutorial sites and articles.
+The most comprehensive collection of high quality iOS articles and blogs.
 
-## Tutorial sites
-
-- [Ray Wenderlich](http://www.raywenderlich.com)
-- [Cocoa Dev Central](http://cocoadevcentral.com/) 
-- [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/)
-- [Cocoa is my girlfriend](http://www.cimgf.com/)
-- [AppCoda](http://www.appcoda.com/)
-- [Tuts Plus iOS](http://code.tutsplus.com/categories/ios-sdk)
-- [iOS-blog](http://ios-blog.co.uk/)
-- [Cocoa with love](http://www.cocoawithlove.com/)
-- [objc](http://www.objc.io/)
-- [Mike Ash](https://www.mikeash.com/pyblog/)
-- [NSHipster](http://nshipster.com/)
-- [Natasha the robot](http://natashatherobot.com/)
-- [ASCII WWDC](http://asciiwwdc.com/)
-- [A Better Way to Learn Swift](https://thinkster.io/a-better-way-to-learn-swift/)
-- [Use Your Loaf](http://useyourloaf.com/)
-- [Code with Chris](http://codewithchris.com/)
-- [Tutorials Point](http://www.tutorialspoint.com/objective_c/index.htm)
-- [http://learnxinyminutes.com/docs/objective-c/](http://learnxinyminutes.com/docs/objective-c/)
-- [Little bites of cocoa](http://littlebitesofcocoa.com/)
-- [James Quave](http://jamesonquave.com/blog/)
-- [iOS Dev Tips](http://iosdevtips.co/)
-- [Think and Build](http://www.thinkandbuild.it/)
-- [http://www.figure.ink/](http://www.figure.ink/)
-- [That Thing in Swift](https://thatthinginswift.com/)
-- [Clean Swift](http://clean-swift.com/)
-- [http://krakendev.io/](http://krakendev.io/)
-- [https://oleb.net/blog/](https://oleb.net/blog/)
-
-## Best articles on specific topics
+## Handpicked articles
 ### App Architecture
 - [Krush iOS architecture - Teehan+Lax](http://www.teehanlax.com/blog/krush-ios-architecture/)
 - [Viper - objc.io](http://www.objc.io/issue-13/viper.html)
@@ -56,7 +26,7 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 - [Memory Management - RyPress](http://rypress.com/tutorials/objective-c/memory-management)
 - [An In-depth Look At Manual Memory Management In Objective-C - Tom Dalling](http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
 
-### Stack and Heap Objects in Objective-C
+### Stack and Heap
 - [Friday Q&A 2010-01-15: Stack and Heap Objects in Objective-C](https://www.mikeash.com/pyblog/friday-qa-2010-01-15-stack-and-heap-objects-in-objective-c.html)
 
 ### Blocks
@@ -88,6 +58,37 @@ The most comprehensive collection of high quality iOS tutorial sites and article
 
 ### Awesomeness beyond iOS
 - [Tell, don't ask](https://pragprog.com/articles/tell-dont-ask)
+
+
+## Tutorial sites
+
+- [Ray Wenderlich](http://www.raywenderlich.com)
+- [Cocoa Dev Central](http://cocoadevcentral.com/) 
+- [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/)
+- [Cocoa is my girlfriend](http://www.cimgf.com/)
+- [AppCoda](http://www.appcoda.com/)
+- [Tuts Plus iOS](http://code.tutsplus.com/categories/ios-sdk)
+- [iOS-blog](http://ios-blog.co.uk/)
+- [Cocoa with love](http://www.cocoawithlove.com/)
+- [objc](http://www.objc.io/)
+- [Mike Ash](https://www.mikeash.com/pyblog/)
+- [NSHipster](http://nshipster.com/)
+- [Natasha the robot](http://natashatherobot.com/)
+- [ASCII WWDC](http://asciiwwdc.com/)
+- [A Better Way to Learn Swift](https://thinkster.io/a-better-way-to-learn-swift/)
+- [Use Your Loaf](http://useyourloaf.com/)
+- [Code with Chris](http://codewithchris.com/)
+- [Tutorials Point](http://www.tutorialspoint.com/objective_c/index.htm)
+- [http://learnxinyminutes.com/docs/objective-c/](http://learnxinyminutes.com/docs/objective-c/)
+- [Little bites of cocoa](http://littlebitesofcocoa.com/)
+- [James Quave](http://jamesonquave.com/blog/)
+- [iOS Dev Tips](http://iosdevtips.co/)
+- [Think and Build](http://www.thinkandbuild.it/)
+- [http://www.figure.ink/](http://www.figure.ink/)
+- [That Thing in Swift](https://thatthinginswift.com/)
+- [Clean Swift](http://clean-swift.com/)
+- [http://krakendev.io/](http://krakendev.io/)
+- [https://oleb.net/blog/](https://oleb.net/blog/)
 
 <br/>
 ## More awesome lists for iOS devs
