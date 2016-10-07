@@ -12,6 +12,7 @@ A comprehensive collection of the best iOS articles and blogs.
 
 ### Design Patterns
 - [8 Patterns to Help You Destroy Massive View Controller](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
+- [Protocol oriented architecture for networking stack](http://www.marisibrothers.com/2016/07/protocol-oriented-loading-of-resources.html)
 
 ### Swift
 - [Advanced & Practical Enum usage in Swift](https://appventure.me/2015/10/17/advanced-practical-enum-examples/)
