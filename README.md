@@ -57,6 +57,9 @@ A comprehensive collection of the best iOS articles and blogs.
 - [Hit-Testing in iOS](http://smnh.me/hit-testing-in-ios/)
 - [Understanding scrollviews](https://www.objc.io/issues/3-views/scroll-view/)
 
+### Frameworks
+- [Creating and distributing embedded frameworks](http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/)
+
 ### Awesomeness beyond iOS
 - [Tell, don't ask](https://pragprog.com/articles/tell-dont-ask)
 
