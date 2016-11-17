@@ -62,6 +62,7 @@ A comprehensive collection of the best iOS articles and blogs.
 
 ### Awesomeness beyond iOS
 - [Tell, don't ask](https://pragprog.com/articles/tell-dont-ask)
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 
 <br/>
 ## Tutorial sites
