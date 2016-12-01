@@ -61,6 +61,9 @@ A comprehensive collection of the best iOS articles and blogs.
 ### Frameworks
 - [Creating and distributing embedded frameworks](http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/)
 
+### Understanding the build process
+- [Build pipeline](https://www.bignerdranch.com/blog/manual-swift-understanding-the-swift-objective-c-build-pipeline/)
+
 ### Awesomeness beyond iOS
 - [Tell, don't ask](https://pragprog.com/articles/tell-dont-ask)
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
