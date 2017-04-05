@@ -6,7 +6,7 @@ A comprehensive collection of the best iOS articles and blogs.
 ### App Architecture
 - [Krush iOS architecture - Teehan+Lax](http://www.teehanlax.com/blog/krush-ios-architecture/)
 - [Viper - objc.io](http://www.objc.io/issue-13/viper.html)
-- [Clean architecture - 8th Light] (http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
+- [Clean architecture - 8th Light](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 - [Aspect-Oriented Programming](http://artsy.github.io/blog/2014/08/04/aspect-oriented-programming-and-aranalytics/)
 - [Clean Swift iOS Architecture](http://clean-swift.com/clean-swift-ios-architecture/)
 
