@@ -75,7 +75,6 @@ A comprehensive collection of the best iOS articles and blogs.
 - [Tell, don't ask](https://pragprog.com/articles/tell-dont-ask)
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 
-<br/>
 ## Tutorial sites
 
 - [Ray Wenderlich](http://www.raywenderlich.com)
@@ -106,13 +105,11 @@ A comprehensive collection of the best iOS articles and blogs.
 - [http://krakendev.io/](http://krakendev.io/)
 - [https://oleb.net/blog/](https://oleb.net/blog/)
 
-<br/>
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
 - https://github.com/sanketfirodiya/sample-watchkit-apps
 - https://github.com/sanketfirodiya/ios-marketing-resources
 
-<br/>
 
 ## Contact
 For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
