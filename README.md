@@ -104,6 +104,7 @@ A comprehensive collection of the best iOS articles and blogs.
 - [Clean Swift](http://clean-swift.com/)
 - [http://krakendev.io/](http://krakendev.io/)
 - [https://oleb.net/blog/](https://oleb.net/blog/)
+- [Khanlou](http://khanlou.com/)
 
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
