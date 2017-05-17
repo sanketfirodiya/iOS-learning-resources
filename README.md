@@ -105,6 +105,7 @@ A comprehensive collection of the best iOS articles and blogs.
 - [http://krakendev.io/](http://krakendev.io/)
 - [https://oleb.net/blog/](https://oleb.net/blog/)
 - [Khanlou](http://khanlou.com/)
+- [Andrew Bancroft](https://www.andrewcbancroft.com/category/software-development/ios-mac/swift/)
 
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
