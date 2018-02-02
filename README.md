@@ -112,6 +112,7 @@ A comprehensive collection of the best iOS articles and blogs.
 - https://github.com/sanketfirodiya/awesome-ios-plugins
 - https://github.com/sanketfirodiya/sample-watchkit-apps
 - https://github.com/sanketfirodiya/ios-marketing-resources
+- https://github.com/LisaDziuba/Marketing-for-Engineers
 
 
 ## Contact
