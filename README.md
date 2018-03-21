@@ -43,6 +43,7 @@ A comprehensive collection of the best iOS articles and blogs.
 - [New in core data and iOS8 batch updating](https://www.bignerdranch.com/blog/new-in-core-data-and-ios-8-batch-updating/)
 - [Exploring all the different core data concurrency configurations](https://blog.codecentric.de/en/2014/11/concurrency-coredata/)
 - [Maintaing a silky smooth UI with core data](https://medium.com/soundwave-stories/core-data-cffe22efe716)
+- [Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)
 
 ### Autolayout
 - [How to use updateConstraints](https://oleb.net/blog/2015/08/how-to-use-updateconstraints/)
@@ -50,6 +51,7 @@ A comprehensive collection of the best iOS articles and blogs.
 ### Debugging
 - [Symbolic breakpoints and watchpoints](https://www.bignerdranch.com/blog/xcode-breakpoint-wizardry/)
 - [Exception breakpoints](http://blog.manbolo.com/2012/01/23/xcode-tips-1-break-on-exceptions)
+- [Debugging Swift code with LLDB](https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49)
 
 ### How not to crash
 - [http://inessential.com/hownottocrash](http://inessential.com/hownottocrash)
@@ -63,6 +65,7 @@ A comprehensive collection of the best iOS articles and blogs.
 
 ### Frameworks
 - [Creating and distributing embedded frameworks](http://code.hootsuite.com/an-introduction-to-creating-and-distributing-embedded-frameworks-in-ios/)
+- [Getting Started with Reusable Frameworks for iOS Development](https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11)
 
 ### Understanding the build process
 - [Build pipeline](https://www.bignerdranch.com/blog/manual-swift-understanding-the-swift-objective-c-build-pipeline/)
@@ -107,6 +110,7 @@ A comprehensive collection of the best iOS articles and blogs.
 - [Khanlou](http://khanlou.com/)
 - [Andrew Bancroft](https://www.andrewcbancroft.com/category/software-development/ios-mac/swift/)
 - [https://www.calayer.com/](https://www.calayer.com/)
+- [Flawless App Stories](https://medium.com/flawless-app-stories)
 
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/awesome-ios-plugins
