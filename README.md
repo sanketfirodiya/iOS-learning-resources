@@ -82,6 +82,7 @@ A comprehensive collection of the best iOS articles and blogs.
 - [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/)
 - [Cocoa is my girlfriend](http://www.cimgf.com/)
 - [AppCoda](http://www.appcoda.com/)
+- [JaneshSwift](http://JaneshSwift.com)
 - [Tuts Plus iOS](http://code.tutsplus.com/categories/ios-sdk)
 - [iOS-blog](http://ios-blog.co.uk/)
 - [Cocoa with love](http://www.cocoawithlove.com/)
